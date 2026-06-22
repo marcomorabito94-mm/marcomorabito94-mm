@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Marco Morabito 👋
 
-<!--
-**marcomorabito94-mm/marcomorabito94-mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with hands-on experience in retail analytics.
+I mainly work with Python, PBI and SQL to turn messy operational data into decisions that actually move the needle.
 
-Here are some ideas to get you started:
+## Stack
+- **Languages:** Python (pandas, numpy, statsmodels, matplotlib, seaborn), SQL (BigQuery / GoogleSQL)
+- **Methods:** Discovery analysis, Difference-in-Differences, uplift analysis, correlation analysis, KPI design ecc
+- **Tools:** Google BigQuery, Looker Studio, PBI, Excel/Google Sheets, Jira and Confluence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you'll find here
+A few end-to-end case studies across different business domains — staffing optimization, post-sale services, commercial performance.
+Each project goes from raw data to insight to business impact.
+
+## Get in touch
+[LinkedIn →](https://www.linkedin.com/in/marco-morabito-882b731b3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
