@@ -9,7 +9,7 @@ I mainly work with Python, PBI and SQL to turn messy operational data into decis
 - **Tools:** Google BigQuery, Looker Studio, PBI, Excel/Google Sheets, Jira and Confluence
 
 ## What you'll find here
-A few end-to-end case studies across different business domains — staffing optimization, post-sale services, commercial performance.
+A few end-to-end case studies across different business domains — staffing optimization, installation services, commercial performance.
 Each project goes from raw data to insight to business impact.
 
 ## Get in touch
