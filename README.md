@@ -4,8 +4,8 @@ Data Analyst with hands-on experience in retail analytics.
 I mainly work with Python, PBI and SQL to turn messy operational data into decisions that actually move the needle.
 
 ## Stack
-- **Languages:** Python (pandas, numpy, statsmodels, matplotlib, seaborn), SQL (BigQuery / GoogleSQL)
-- **Methods:** Discovery analysis, Difference-in-Differences, uplift analysis, correlation analysis, KPI design ecc
+- **Languages:** Python (pandas, numpy, scipy, plotly, matplotlib, seaborn, scikit-learn), SQL (BigQuery / GoogleSQL)
+- **Methods:** Discovery analysis, correlation analysis, causal inference (Difference-in-Differences), OLS regression, z-score anomaly detection, Wasserstein distance matching
 - **Tools:** Google BigQuery, Looker Studio, PBI, Excel/Google Sheets, Jira and Confluence
 
 ## What you'll find here
