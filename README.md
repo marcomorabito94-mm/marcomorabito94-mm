@@ -5,7 +5,7 @@ I mainly work with Python, PBI and SQL to turn messy operational data into decis
 
 ## Stack
 - **Languages:** Python (pandas, numpy, scipy, plotly, matplotlib, seaborn, scikit-learn), SQL (BigQuery / GoogleSQL)
-- **Methods:** Discovery analysis, correlation analysis, causal inference (Difference-in-Differences), OLS regression, z-score anomaly detection, Wasserstein distance matching
+- **Methods:** Discovery analysis, correlation analysis, causal inference (Difference-in-Differences), OLS regression, Wasserstein distance matching
 - **Tools:** Google BigQuery, Looker Studio, PBI, Excel/Google Sheets, Jira and Confluence
 
 ## What you'll find here
